@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://github.com/nikharso/kashi/stargazers"><img src="https://img.shields.io/github/stars/nikharso/kashi?colorA=2b2f3d&colorB=8ba078&style=for-the-badge"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=nikharso.kashi"><img src="https://img.shields.io/visual-studio-marketplace/v/nikharso.kashi?colorA=2b2f3d&colorB=7483a8&style=for-the-badge"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=nikharso.kashi"><img src="https://img.shields.io/visual-studio-marketplace/d/nikharso.kashi?colorA=2b2f3d&colorB=B190B4&style=for-the-badge"></a>
+    <!-- <a href="https://marketplace.visualstudio.com/items?itemName=nikharso.kashi"><img src="https://img.shields.io/visual-studio-marketplace/d/nikharso.kashi?colorA=2b2f3d&colorB=B190B4&style=for-the-badge"></a> -->
     <a href="https://buymeacoffee.com/nikharso"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-e6c384?colorA=2b2f3d&logo=buymeacoffee&logoColor=e6c384&style=for-the-badge" /></a>
 </p>
 
