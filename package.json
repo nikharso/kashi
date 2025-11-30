@@ -1,0 +1,26 @@
+{
+  "name": "kashi",
+  "displayName": "Kashi",
+  "publisher": "Nikharso",
+  "description": "A clean, vs code theme built around sharp contrast, muted colors, and an uncluttered editing experience. It's designed for steady focus, readable syntax, and a calm workspace.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "icon": "logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kashi Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/city-of-lakes-color-theme.json"
+      }
+    ]
+  }
+}
