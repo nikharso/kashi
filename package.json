@@ -3,7 +3,7 @@
   "displayName": "Kashi",
   "publisher": "Nikharso",
   "description": "Kashi is a dark VS Code theme designed with muted colors, steady contrast, and a quiet UI. It avoids neon saturation and keeps syntax readable without visual noise. The result is a theme that feels calm, balanced, and comfortable for long hours of work.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "keywords": [
     "theme",
