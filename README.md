@@ -10,9 +10,9 @@
   </p>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="banner.png" width="1000" />
-</div> -->
+</div>
 
 <br/>
 

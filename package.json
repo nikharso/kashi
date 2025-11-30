@@ -11,7 +11,8 @@
     "Themes"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/nikharso/kashi"
   },
   "icon": "logo.png",
   "contributes": {
