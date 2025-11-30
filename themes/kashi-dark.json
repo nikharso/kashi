@@ -1,10 +1,11 @@
 {
   "name": "Kashi",
   "colors": {
-    "activityBar.background": "#22262d",
-    "activityBar.foreground": "#c5c9c7",
-    "activityBarBadge.background": "#658594",
-    "activityBarBadge.foreground": "#c5c9c7",
+    "activityBar.background": "#1A1C21",
+    "activityBar.foreground": "#aca9a1",
+    "activityBar.border": "#22262d",
+    "activityBarBadge.background": "#7483a8",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#22262d",
     "banner.background": "#14171d",
     "breadcrumb.focusForeground": "#c5c9c7d4",
