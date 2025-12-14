@@ -25,6 +25,10 @@
     "type": "git",
     "url": "https://github.com/nikharso/kashi"
   },
+  "homepage": "https://github.com/nikharso/kashi#readme",
+  "bugs": {
+    "url": "https://github.com/nikharso/kashi/issues"
+  },
   "icon": "logo.png",
   "contributes": {
     "themes": [
@@ -34,5 +38,14 @@
         "path": "./themes/kashi-dark.json"
       }
     ]
+  },
+  "scripts": {
+    "release": "standard-version",
+    "release:patch": "standard-version --release-as patch",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }

@@ -1,4 +1,13 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-vsc-extension-quickstart.md
+.git/**
+.vscode-test-results/**
+*.vsix
+.DS_Store
+*.code-workspace
+**/*.map
+**/*.ts
+!**/*.js.map
+node_modules/**
+*.log
